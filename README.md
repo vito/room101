@@ -12,3 +12,4 @@ Room 101 is an experimental CI system with the following immediate goals:
 1. A complex Room 101 deployment should be trivially recreatable.
 1. Every build can be public without security risks (no leaking credentials,
    no pull requests hosing the deployment).
+1. Full test coverage of Room 101 itself.
